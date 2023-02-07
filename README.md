@@ -13,7 +13,7 @@ Step 2: Syncing Gradle
 
 Step 3: Open Gradle Script 
 
-Step 4: Open build.gradle (Project: Your Application Name)
+Step 4: Open build.gradle (Project: Your Application Name)   
 ![image](https://user-images.githubusercontent.com/101948486/217161012-e6fa2244-6046-4563-a247-a54bb1da02e1.png)
 
 
